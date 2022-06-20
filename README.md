@@ -17,7 +17,7 @@ The script 'x_show_rot_vectors_all_pymol.py' is a PyMOL script that will do all 
 Comparison of ratcheting and rolling rotational axes for Giardia translocation intermediates. Rotational axes shown as large cylinders, small cylinders represent vectors between initial and final points of the transition.  
 
 ![PyMOL script](./images/pymol_axangle2.png)  
-Visual output of the script 'x_show_rot_vectors_all_pymol.py'. In addition to this, all calculations are output to console as well as to file to allow for further analysis. See the script comments for details.
+Visual output of the script 'x_show_rot_vectors_all_pymol.py'. All results are output to console as well as to a number of files to allow for further analysis. A ChimeraX bild file is also constructed to allow for figure preparation there. See the script comments for details.
 
 ## coot_progressive_refinement
 A script to perform real space refinement in Coot using a docked structure. This script orders the residues to be refined by their distance from the (macro)molecule's centre of mass. Then it performs this refinement in a step-wise fashion in a sphere of a given radius (determined by the user, some choices in the Coot menu are 8 and 25 Å).
