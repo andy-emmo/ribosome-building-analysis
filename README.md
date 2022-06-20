@@ -7,3 +7,6 @@ Measure the 3-dimensional distance between rRNA residues of two structures.
 Determine the rotational axis and rotation vectors (between phosphates for instance) between two intermediate states.
 
 ![Pairwise Euclidean norm](./images/SI_eucnorm.png)
+3-dimensional distance between rRNA residues from one translocation intermediate to another (left) with the small subunit (SSU) body residues aligned (right).
+
+![Rotation axes comparison](./images/rotation_axes_01.png)
