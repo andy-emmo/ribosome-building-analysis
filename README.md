@@ -5,3 +5,5 @@ Code used in the study: "Insights into Translocation Mechanism and Ribosome Evol
 A set of scripts to determine the rotation characeristics of translocation intermediates in a pairwise fashion.
 Measure the 3-dimensional distance between rRNA residues of two structures.
 Determine the rotational axis and rotation vectors (between phosphates for instance) between two intermediate states.
+
+![Pairwise Euclidean norm](./images/SI_eucnorm.png)
