@@ -11,7 +11,7 @@ Compare rotational axes between transitions.
 3-dimensional distance between rRNA residues from one translocation intermediate to another (left) with the small subunit (SSU) body residues aligned (right).
 
 ![Rotation axes comparison](./images/rotation_axes_01.png)  
-Comparison of ratcheting and rolling rotational axes for Giardia translocation intermediates.
+Comparison of ratcheting and rolling rotational axes for Giardia translocation intermediates. Rotational axes shown as large cylinders, small cylinders represent vectors between initial and final points of the transition.
 
 ## coot_progressive_refinement
 A script to perform real space refinement in Coot using a docked structure. This script orders the residues to be refined by their distance from the (macro)molecule's centre of mass. Then it performs this refinement in a step-wise fashion in a sphere of a given radius (determined by the user, some choices in the Coot menu are 8 and 25 Å).
